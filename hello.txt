@@ -3,3 +3,4 @@ add hello world
 new record
 Github上添加 new record
 add one more
+local add record
