@@ -1,3 +1,4 @@
 hello git
 add hello world
 new record
+Github上添加 new record
